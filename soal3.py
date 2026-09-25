@@ -5,7 +5,7 @@ data_rotor = {
     "II": ("AJDKSIRUXBLHWTMCQGZNPYFVOE", "E"),
     "III": ("BDFHJLCPRTXVZNYEIWGAKMUSQO", "V")
 }
-
+  
 reflector = "YRUHQSLDPXNGOKMIEBFZCWVJAT"
 
 plugboard = {
